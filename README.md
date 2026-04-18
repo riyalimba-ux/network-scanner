@@ -64,10 +64,6 @@ Enter end port: 1024
 
 ---
 
-## 📸 Output Example
-
-![Output](PASTE-YOUR-SCREENSHOT-LINK-HERE)
-
 ---
 
 ## 🎯 Learning Outcomes
