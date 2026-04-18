@@ -1,6 +1,5 @@
 # 🔐 Network Scanner
 
-![Banner](PASTE-YOUR-BANNER-LINK-HERE)
 
 🚀 A fast and multi-threaded network scanning tool built in Python to detect open ports and running services on a target system.
 
